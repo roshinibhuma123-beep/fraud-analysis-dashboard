@@ -67,11 +67,12 @@ fraud-detection-analytics/
 
 ### Fraud by City
 
-![Fraud by City](screenshots/fraud_by_city.png)
+![Fraud by City](fraud_by_city.png)
 
 ### High Risk Customers
 
-![High Risk Customers](screenshots/high_risk_customers.png)
+
+![High Risk Customers](high_risk_customers.png)
 
 ---
 
